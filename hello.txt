@@ -1,0 +1,16 @@
+create git repo:
+remote:
+1.github e repo toiri 
+
+local:
+2.computer e folder toiri 
+3.files & folder toire 
+4.git.init
+5.git add .
+6.git commit -m "first commit"
+7.git brach -M main
+8.git remote add origin
+9.git push -u origin main
+
+
+update git branch -M main
