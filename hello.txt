@@ -9,7 +9,10 @@ local:
 5.git add .
 6.git commit -m "first commit"
 7.git brach -M main
-8.git remote add origin
+
+local <=> remote
+
+8.git remote add origin https://github.com/nilldri/fst-repo.git
 9.git push -u origin main
 
 
